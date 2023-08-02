@@ -45,10 +45,10 @@ Config.SmokeParticleEffect = "veh_respray_smoke"
 -- Delay before vehicle deletion
 Config.VehicleDeletionDelay = 5000
 ```
-##License
+## License
 // This script is released under the MIT License. See LICENSE for more information.
 
-##Author
+## Author
 This script was created by "e1nfachjustin" (https://github.com/EinfachJustin).
 
 If you have any questions or issues with the script, feel free to contact me.
